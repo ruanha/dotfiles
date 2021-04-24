@@ -12,3 +12,6 @@ ln ./.vimrc ~/.vimrc
 
 # install fish - apt-get install is idempotent so it is safe to run, even if already installed
 sudo apt-get install fish
+
+# install tldr
+sudo apt-get install tldr
